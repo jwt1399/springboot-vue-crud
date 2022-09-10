@@ -1,28 +1,10 @@
-> 一个基于 SpringBoot-Vue 的 CRUD 整合 Demo
 
+<h2 align="center" >基于 SpringBoot-Vue 的 CRUD 整合 Demo</h2>
+
+<h5 align="center">旨在帮您入门 SpringBoot 整合</h5>
 ## 0.项目简介
 
-### ①.项目层次
-
-- **entity层**
-
-entity层即数据库实体层，也称为 POJO 层（Plain Ordinary Java Object，即简单普通的java对象）或 model 层。 entity层的作用为存放实体类Bean。 一般数据库一张表对应一个实体类，类属性同表字段一一对应。
-
-- **dao层**
-
-dao层即数据持久层，也称为mapper层。 dao层的作用为访问数据库，向数据库发送sql语句，完成数据的增删改查任务。
-
-- **service层**
-
-service层即业务逻辑层。  service层的作用为完成功能设计。  service层调用dao层接口，接收dao层返回的数据，完成项目的基本功能设计。
-
-- **controller层**
-
-controller层即控制层。  controller层的功能为请求和响应控制。  controller层负责前后端交互，接受前端请求，调用service层，接收service层返回的数据，最后返回具体的页面和数据到客户端。
-
-![](https://img.jwt1399.top/img/202209082324008)
-
-### ②.相关技术
+### ①.相关技术
 
 - Bean开发————使用`Lombok`快速制作实体类
 - Dao开发————整合`MyBatis-Plus`，制作数据层测试
@@ -30,7 +12,7 @@ controller层即控制层。  controller层的功能为请求和响应控制。 
 - Controller开发————基于`Restful`开发，使用`PostMan`测试接口功能
 - 页面开发————基于`VUE+ElementUI`制作，前后端联调，页面数据处理，页面消息处理
 
-### ③.项目展示
+### ②.项目展示
 
 #### 主页面
 
