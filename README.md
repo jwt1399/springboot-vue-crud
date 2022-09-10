@@ -2,6 +2,7 @@
 <h2 align="center" >基于 SpringBoot-Vue 的 CRUD 整合 Demo</h2>
 
 <h5 align="center">旨在帮您入门 SpringBoot 整合</h5>
+
 ## 0.项目简介
 
 ### ①.相关技术
