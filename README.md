@@ -7,11 +7,11 @@
 
 ### ①.相关技术
 
-- Bean开发————使用`Lombok`快速制作实体类
-- Dao开发————整合`MyBatis-Plus`，制作数据层测试
-- Service开发————基于`MyBatis-Plus`进行增量开发，制作业务层测试类
-- Controller开发————基于`Restful`开发，使用`PostMan`测试接口功能
-- 页面开发————基于`VUE+ElementUI`制作，前后端联调，页面数据处理，页面消息处理
+- Bean开发——使用`Lombok`快速制作实体类
+- Dao开发——整合`MyBatis-Plus`，制作数据层测试
+- Service开发——基于`MyBatis-Plus`进行增量开发，制作业务层测试类
+- Controller开发——基于`Restful`开发，使用`PostMan`测试接口功能
+- 页面开发——基于`VUE+ElementUI`制作，前后端联调，页面数据处理，页面消息处理
 
 ### ②.项目展示
 
